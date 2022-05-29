@@ -1,0 +1,16 @@
+Completed!
+Version 1 definition:
+[/] Should keep track of the amount of times you've answered correctly and incorrectly, displaying it to the user as they go.
+
+[/] Program should be able to infinitely run unless you close it, always being able to randomly pick questions from the database of
+questions from the excel sheet. Regardless of how big the spreadsheet gets, the program should always know the length of the
+database and pull questions.
+
+[/] Under it's basic functionality, there should be no semantic errors, meaning the program should work in basic functionality
+as it was intended to. Which is to continously ask questions and keep score as it runs.
+
+
+Version 2 definition:
+write some shit about this later but essentially being able to modify and read the excel file entirely within my program
+
+have two modes, trivia mode and database editing mode
